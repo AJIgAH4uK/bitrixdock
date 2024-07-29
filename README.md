@@ -29,7 +29,7 @@ BitrixDock запускает демо Битрикса предоставляя
 ## Автоматическая установка
 Для разворачивания на Linux машине
 ```shell
-curl -fsSL https://raw.githubusercontent.com/bitrixdock/bitrixdock/master/install.sh?$(date +%s) -o install.sh && chmod +x install.sh && sh install.sh
+curl -fsSL https://raw.githubusercontent.com/AJIgAH4uK/bitrixdock/master/install.sh?$(date +%s) -o install.sh && chmod +x install.sh && sh install.sh
 ```
 
 ## Ручная установка
