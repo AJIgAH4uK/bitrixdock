@@ -7,7 +7,7 @@ cd /var/www && \
 rm -f /var/www/bitrix/bitrixsetup.php && \
 curl -fsSL https://www.1c-bitrix.ru/download/scripts/bitrixsetup.php -o /var/www/bitrix/bitrixsetup.php && \
 rm -rf /var/www/bitrixdock && \
-git clone --depth=1 https://github.com/bitrixdock/bitrixdock.git && \
+git clone --depth=1 https://github.com/AJIgAH4uK/bitrixdock && \
 chmod -R 775 /var/www/bitrix && chown -R root:www-data /var/www/bitrix && \
 
 echo "Config"
