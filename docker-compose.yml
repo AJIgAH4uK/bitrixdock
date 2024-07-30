@@ -1,7 +1,7 @@
 ---
 services:
     php:
-        build: ./php/php83
+        build: ./php/${PHP_VERSION}
         container_name: php
         volumes_from:
             - source
