@@ -59,7 +59,7 @@ return [
                             'host' => 'db',
                             'database' => 'bitrix',
                             'login' => 'root',
-                            'password' => '123',
+                            'password' => 'ZXajaJvE',
                             'options' => 2,
                         ],
                 ],
